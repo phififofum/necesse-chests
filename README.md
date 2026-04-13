@@ -1,3 +1,3 @@
-An example mod for Necesse.
+# Necesse - Chests  
 
-Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
+A basic modpack for quality of life chests. Introduces a suite of new chests with larger storage sizes, based on materials used in the game. 
